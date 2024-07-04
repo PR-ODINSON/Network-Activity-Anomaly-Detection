@@ -1,4 +1,4 @@
-### Network Attack Detection with Random Forest Classifier
+# Network Attack Detection with Random Forest Classifier
 ## Overview
 This repository contains code for detecting network attacks using a Random Forest Classifier. The model is trained on a dataset with features such as protocol type, service, flag, and various traffic statistics. After preprocessing and encoding categorical variables, the model achieved impressive performance on the validation set.
 
@@ -8,7 +8,7 @@ notebooks/: Jupyter notebooks used for data exploration, preprocessing, and mode
 src/: Python scripts for model training and evaluation.
 submission.csv: Predictions on the test dataset formatted for evaluation.
 ## Getting Started
-# Clone this repository to your local machine.
+### Clone this repository to your local machine.
 Install the required dependencies (e.g., pandas, scikit-learn).
 Run the training script (train.py) to train the Random Forest Classifier.
 Evaluate the model’s performance using the validation set.
