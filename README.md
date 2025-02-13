@@ -7,7 +7,7 @@ data/: Contains the training and test datasets (e.g., train_data.csv, test_data.
 notebooks/: Jupyter notebooks used for data exploration, preprocessing, and model training.
 src/: Python scripts for model training and evaluation.
 submission.csv: Predictions on the test dataset formatted for evaluation.
-## Getting Started
+## Getting Started!
 ### Clone this repository to your local machine.
 Install the required dependencies (e.g., pandas, scikit-learn).
 Run the training script (train.py) to train the Random Forest Classifier.
