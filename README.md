@@ -15,5 +15,5 @@ Evaluate the model’s performance using the validation set.
 Make predictions on the test dataset and create the submission file.
 ## Usage
 Modify the hyperparameters in train.py to fine-tune the model.
-Explore the Jupyter notebooks in notebooks/ for detailed analysis.
+Explore the Jupyter notebooks in notebooks/ for detailed analysis!
 Feel free to contribute or extend the project!
