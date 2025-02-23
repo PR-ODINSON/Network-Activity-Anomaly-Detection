@@ -16,4 +16,4 @@ Make predictions on the test dataset and create the submission file.
 ## Usage
 Modify the hyperparameters in train.py to fine-tune the model.
 Explore the Jupyter notebooks in notebooks/ for detailed analysis.
-Feel free to contribute or extend the project!
+Feel free to contribute or extend the project.
